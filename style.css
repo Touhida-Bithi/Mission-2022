@@ -1,6 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
-    margin: 100px;
+    margin: 50px 100px 0px 100px;
 }
 h1{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -13,6 +13,7 @@ p{
 }
 h2{
     text-align: center;
+    font-size: 40px;
 }
 .name_color{
     color: #6a5acd;
@@ -75,4 +76,41 @@ h2{
 }
 .section_two_right img{
     width: 126px;
+}
+.section_three{
+    margin-top: 50px;
+    background-image: url(images/shapes/shape-7.png);
+    background-repeat: no-repeat;
+    background-size: 15%;
+    
+}
+
+.section_four{
+    margin-top: 50px;
+    width: 50%;
+
+}
+.section_four img{
+    height: 356px;
+    padding-left: 200px;
+}
+.section_five{
+    width: 50%;
+
+}
+.section_five img{
+    width: 90%;
+    
+}
+.footer {
+    background-color: #434343;
+    text-align: center;
+    color: azure;
+    padding: 20px;
+    margin-top: 20px;
+}
+.footer p{
+    color: azure;
+    text-align: center;
+    margin: 10px;
 }
